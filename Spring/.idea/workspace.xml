@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f04845dc-1694-43b2-bb24-c4561f638c25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1qNUnJaqTTp7m0geVasOCuR12ZY" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenRunHelper" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="top.lovesql.service.impl" />
+      <recent name="top.lovesql.dao.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/user" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="top.lovesql" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="top.lovesql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppMainTest.myUserTest">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lovesql.AppMain" />
+      <module name="Spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMainTest.myUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring" />
+      <option name="PACKAGE_NAME" value="top.lovesql" />
+      <option name="MAIN_CLASS_NAME" value="top.lovesql.AppMainTest" />
+      <option name="METHOD_NAME" value="myUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMainTest.springInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring" />
+      <option name="PACKAGE_NAME" value="top.lovesql" />
+      <option name="MAIN_CLASS_NAME" value="top.lovesql.AppMainTest" />
+      <option name="METHOD_NAME" value="springInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMainTest.testSpring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring" />
+      <option name="PACKAGE_NAME" value="top.lovesql" />
+      <option name="MAIN_CLASS_NAME" value="top.lovesql.AppMainTest" />
+      <option name="METHOD_NAME" value="testSpring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMainTest.testStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring" />
+      <option name="PACKAGE_NAME" value="top.lovesql" />
+      <option name="MAIN_CLASS_NAME" value="top.lovesql.AppMainTest" />
+      <option name="METHOD_NAME" value="testStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppMainTest.myUserTest" />
+        <item itemvalue="JUnit.AppMainTest.testStudent" />
+        <item itemvalue="JUnit.AppMainTest.springInfo" />
+        <item itemvalue="JUnit.AppMainTest.testSpring" />
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04845dc-1694-43b2-bb24-c4561f638c25" name="Default Changelist" comment="" />
+      <created>1616919706569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616919706569</updated>
+      <workItem from="1616919707653" duration="51000" />
+      <workItem from="1616919761569" duration="610000" />
+      <workItem from="1616920449169" duration="391000" />
+      <workItem from="1616920911002" duration="4068000" />
+      <workItem from="1616925010839" duration="67000" />
+      <workItem from="1616925091410" duration="5899000" />
+      <workItem from="1616938048350" duration="38000" />
+      <workItem from="1616938284923" duration="109000" />
+      <workItem from="1616938588889" duration="26000" />
+      <workItem from="1616938863257" duration="40000" />
+      <workItem from="1616939039603" duration="634000" />
+      <workItem from="1617017057528" duration="38000" />
+      <workItem from="1617017109303" duration="6488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
